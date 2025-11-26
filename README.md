@@ -71,3 +71,5 @@ Employees over 55 have the lowest attrition.
 
 The dashboard highlights that attrition is highest in the Sales department, mainly among employees aged 25–34 and 35–44. Education fields like Life Sciences and Medical show higher turnover. Job satisfaction varies, with some roles showing lower satisfaction, which may be linked to higher attrition.
 
+
+credit- Data Tutorials (https://youtu.be/-sOHVl_iCHA)
